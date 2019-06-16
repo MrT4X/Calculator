@@ -1,6 +1,6 @@
 #!/bin/bash
 ##program Calculator
-##Created By Mr.yM
+##Created By Mr.T4X
 
 penambahan(){
 echo " Masukkan angka pertama : "
@@ -45,7 +45,7 @@ do
 clear
 echo "-------------------------------------"
 echo "|    PROGRAM KALKULATOR TERMUX      |"
-echo "|             By Mr.yM              |"
+echo "|             By Mr.T4X              |"
 echo "-------------------------------------"
 echo " ________________ "
 echo "(                )"
